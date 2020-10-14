@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/T83SRwW/pingwha-removebg-preview-1-1.png" alt="pingwha-removebg-preview-1-1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>chat gratis con fotos</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/T83SRwW/pingwha-removebg-preview-1-1.png" alt="pingwha-removebg-preview-1-1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
 
 # pingwha
 This tool pings and monitors the device, if the ping fails it will send you an alert via WhatsApp, it is necessary to register at twilio.com to create an account and get notifications with the API provided by Twilio
