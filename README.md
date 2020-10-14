@@ -19,5 +19,7 @@ install requirements.txt if you don't have python you must install it before usi
 
 <a href="https://ibb.co/nC8TNdP"><img src="https://i.ibb.co/pyrgBVh/Captura-de-pantalla-2020-10-14-15-51-13.png" alt="Captura-de-pantalla-2020-10-14-15-51-13" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
 
+lines 119 and 120 change this data for the ones that Twilio gave you
 
+lines 125 personalize your message and line 126 change the code of your country and add your cell phone number with whatsapp registered in Twilio
 
