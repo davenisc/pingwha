@@ -13,6 +13,8 @@ This tool pings and monitors the device, if the ping fails it will send you an a
 
 <a href="https://ibb.co/SQFs2RX"><img src="https://i.ibb.co/M8F2bMD/Captura-de-pantalla-2020-10-02-12-31-02.png" alt="Captura-de-pantalla-2020-10-02-12-31-02" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
 
+<a href="https://ibb.co/gvvj8N1"><img src="https://i.ibb.co/9ww806X/3.png" alt="3" border="0"></a>
+
 To obtain a whatsapp API, register at https://twilio.com
 
 install requirements.txt if you don't have python you must install it before using the to, after registering with twilio go to the next block of the file
