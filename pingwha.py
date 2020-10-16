@@ -116,12 +116,12 @@ while True:
 
 
             # --------------  codigo para envio de mensajes WhatsApp
-            account_sid = 'ACe047816224431ec218809a7d40a7438d'
-            auth_token = '542a7b6a04d51ae62f323b1d6c21f004'
+            account_sid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+            auth_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
             client = Client(account_sid, auth_token)
 
             message = client.messages.create(
-                                          from_='whatsapp:+14155238886',
+                                          from_='whatsapp:+xxxxxxxxxxx',
                                           body=f'Alert! {hostname_monitor} is down.',
                                           to=f'whatsapp:+57{numero_whatsapp}'
                                       )
