@@ -3,9 +3,7 @@
 # Pingwha
 This tool pings and monitors the device, if the ping fails it will send you an alert via WhatsApp, it is necessary to register at twilio.com to create an account and get notifications with the API provided by Twilio
 
-<a href="https://ibb.co/jy7DkNS"><img src="https://i.ibb.co/Mcq7kvm/Captura-de-pantalla-2020-10-02-12-26-28.png" alt="Captura-de-pantalla-2020-10-02-12-26-28" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
-
-<a href="https://ibb.co/zNzL67W"><img src="https://i.ibb.co/Lv3qNJD/Captura-de-pantalla-2020-10-02-12-27-32.png" alt="Captura-de-pantalla-2020-10-02-12-27-32" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
+<a href="https://ibb.co/ydTCLcV"><img src="https://i.ibb.co/pbDTCBn/1.png" alt="1" border="0"></a>
 
 <a href="https://ibb.co/Njj7Hjt"><img src="https://i.ibb.co/J77CM7m/Captura-de-pantalla-2020-10-02-12-27-47.png" alt="Captura-de-pantalla-2020-10-02-12-27-47" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
 
