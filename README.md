@@ -5,6 +5,8 @@ This tool pings and monitors the device, if the ping fails it will send you an a
 
 <a href="https://ibb.co/ydTCLcV"><img src="https://i.ibb.co/pbDTCBn/1.png" alt="1" border="0"></a>
 
+<a href="https://ibb.co/W5QfFN9"><img src="https://i.ibb.co/yPDq5mT/2.png" alt="2" border="0"></a>
+
 <a href="https://ibb.co/Njj7Hjt"><img src="https://i.ibb.co/J77CM7m/Captura-de-pantalla-2020-10-02-12-27-47.png" alt="Captura-de-pantalla-2020-10-02-12-27-47" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
 
 <a href="https://ibb.co/q1ZVgNK"><img src="https://i.ibb.co/Yjrwdcm/Captura-de-pantalla-2020-10-02-12-28-46.png" alt="Captura-de-pantalla-2020-10-02-12-28-46" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
