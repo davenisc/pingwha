@@ -36,6 +36,6 @@ lines 119 and 120 change this data for the ones that Twilio gave you
 
 lines 125 personalize your message and line 126 change the code of your country and add your cell phone number with whatsapp registered in Twilio
 
-For more information you can contact us at info@davenisc.com
+For more information you can contact us at dave@davenisc.com
 
 <a href="https://www.paypal.com/paypalme/davenisc"><img src="https://i.ibb.co/Vm52kmy/donate.png" alt="donate" border="0"></a>
